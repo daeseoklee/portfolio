@@ -29,17 +29,17 @@ We identified a tiny fragment in the grammar of dependency parsing that can be p
 
 Just as the title suggests. The algorithm was found while doing the 'dependency parsing' project.  
 
-### Past incomplete works
-* Assessing Generalizability of Maximum Likelihood Estimation, 2020 (./past_incomplete/mle_bounds.pdf)
+### Incomplete works
+* Assessing Generalizability of Maximum Likelihood Estimation, 2020 (./incomplete/mle_bounds.pdf)
 
 Some preliminary ideas on extending the classical learning theory(using Radamacher complexity) to the setting of distribution learning. 
 
 For a quick overview, you can read section 1 and 2 for the problem description and notations, read the statement of Theorem 5.2, and jump to section 7. In section 7, focus on the initial remarks, Theorem 7.8 and subsection 7.3. 
 
-* Inference in Functional Probabilistic Models, 2020 (./past_incomplete/iifpm.pdf)
+* Inference in Functional Probabilistic Models, 2020 (./incomplete/iifpm.pdf)
 
-Tried to provide a framework to analyze the problem of approximating the conditional distribution when the dimension of the surface on which the latent variables lie decreases by conditioning.(Such conditional distribution can be viewed as 'disintegration'.)
+Tried to provide a framework to analyze the problem of approximating the conditional distribution when the dimension of the space in which the latent variables lie decreases by conditioning.(Such conditional distribution can be viewed as 'disintegration'.)
 
-In particular in Theorem 3.6, we proved in a setting that making certain quantities(equations (3.10) and (3.11), which are straightforward to estimate) near-zero is sufficient for the approximation in a special sense(equation (3.9) and the following line). Read the lines around equation (3.25).  
+In particular in Theorem 3.6, we proved in a setting that making certain quantities(equations (3.10) and (3.11), which have trivial Monte-Carlo estimations) near-zero is sufficient for the approximation in a special sense(equation (3.9) and the following line). Read the lines around equation (3.25).  
 
 
