@@ -29,6 +29,14 @@ We identified a tiny fragment in the grammar of dependency parsing that can be p
 
 Just as the title suggests. The algorithm was found while doing the 'dependency parsing' project.  
 
+* Boosting Convolutional Neural Networks' Protein Binding Site Prediction Capacity Using SE(3)-invariant transformers, Transfer Learning and Homology-based Augmentation 
+
+https://arxiv.org/abs/2303.08818
+
+* Improving group robustness under noisy labels using predictive uncertainty 
+
+https://arxiv.org/abs/2212.07026
+
 ### Incomplete works
 * Assessing Generalizability of Maximum Likelihood Estimation, 2020 (./incomplete/mle_bounds.pdf)
 
